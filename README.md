@@ -1,3 +1,3 @@
 # Stepik-auto-tests-course
-Homeworks. Selenium &amp; Python are used.
-https://stepik.org/course/575
+Examples and homeworks. Selenium &amp; Python are used.
+Course URL: https://stepik.org/course/575
